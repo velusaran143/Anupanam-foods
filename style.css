@@ -646,3 +646,15 @@ main .taste-text {
     border: none !important;
     box-shadow: none !important;
 }
+.navbar .nav-links a {
+    color: rgba(110, 18, 18, 0.925);
+    text-decoration: none;
+}
+
+.navbar .nav-links a:hover {
+    color: rgba(110, 23, 23, 0.726);
+}
+
+.navbar .nav-links .order-btn {
+    color: rgb(110, 13, 13);
+}
