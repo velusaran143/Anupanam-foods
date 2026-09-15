@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://velusaran143.github.io/Anupanam-foods/sitemap.xml
